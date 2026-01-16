@@ -32,7 +32,7 @@ This project is not a real operating system — it is a fun and experimental ter
 
 ## 🛠 Requirements
 
-- Python 3.x  
+- Python 3.6 
 - Any operating system that supports Python
 
 ---
