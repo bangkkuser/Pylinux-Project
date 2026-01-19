@@ -34,12 +34,19 @@ This project is not a real operating system — it is a fun and experimental ter
 
 - Python 3.6 
 - Any operating system that supports Python
+- (x86) Intel Atom N2600
+- (arm) Broadcom BCM2836
+- 1GB RAM
 
+## ⚒️⚖️ Reccomended Requirements
+- Python 3.8
+- System with LinuxKernel 4.4+
+- Or system with BSDKernel 14.x+
+- (x86) Intel i3/5 4gen+
+- (arm) Broadcom BCM2711
+- 2-4GB RAM
 ---
 
 ## ▶️ How to Run
 
-Clone the repository and execute:
-
-```bash
-python pylinux.py
+Download the .py file from Releases and execute
